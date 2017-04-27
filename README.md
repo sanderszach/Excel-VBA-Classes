@@ -13,13 +13,13 @@ Here are 8 1-hour classes on introduction to Excel VBA. See links to youtube vid
 
 # Youtube Videos
 Week 1 video - https://www.youtube.com/watch?v=CgfKAd3r6bg&feature=youtu.be  
-Week 2 video - https://www.youtube.com/watch?v=Ej8e5qwhiOE&feature=youtu.be
-Week 3 video - https://www.youtube.com/watch?v=OZo0IFr9BdU&feature=youtu.be
-Week 4 video - https://www.youtube.com/watch?v=dmULvDgf-5w
-Week 5 video - https://www.youtube.com/watch?v=A7u3PrK3grs&feature=youtu.be
-Week 6 video - https://www.youtube.com/watch?v=LjUSclW5l1c&feature=youtu.be
-Week 7 video - https://www.youtube.com/watch?v=s3lTPfRqq0E&feature=youtu.be
-Week 8 video - https://www.youtube.com/watch?v=-GPCD_U4lSc&feature=youtu.be
+Week 2 video - https://www.youtube.com/watch?v=Ej8e5qwhiOE&feature=youtu.be  
+Week 3 video - https://www.youtube.com/watch?v=OZo0IFr9BdU&feature=youtu.be  
+Week 4 video - https://www.youtube.com/watch?v=dmULvDgf-5w  
+Week 5 video - https://www.youtube.com/watch?v=A7u3PrK3grs&feature=youtu.be  
+Week 6 video - https://www.youtube.com/watch?v=LjUSclW5l1c&feature=youtu.be  
+Week 7 video - https://www.youtube.com/watch?v=s3lTPfRqq0E&feature=youtu.be  
+Week 8 video - https://www.youtube.com/watch?v=-GPCD_U4lSc&feature=youtu.be  
 
 
 
