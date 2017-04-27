@@ -1,5 +1,5 @@
 # Excel-VBA-Classes
-Here are 8 1-hour classes on introduction to Excel VBA. See links to youtube videos below
+Here are 8 1-hour classes on introduction to Excel VBA. See links to youtube videos below. The .xlsm documents are attached.
 
 # Class Outline
 1. Overview & Scope - Developer Tab, VBA Editor, Recording Macros
