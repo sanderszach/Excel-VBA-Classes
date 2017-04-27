@@ -12,7 +12,7 @@ Here are 8 1-hour classes on introduction to Excel VBA. See links to youtube vid
 8. Real Life Examples - User forms wrap up, PPT Generation Loop Macro demo
 
 # Youtube Videos
-Week 1 video - https://www.youtube.com/watch?v=CgfKAd3r6bg&feature=youtu.be
+Week 1 video - https://www.youtube.com/watch?v=CgfKAd3r6bg&feature=youtu.be  
 Week 2 video - https://www.youtube.com/watch?v=Ej8e5qwhiOE&feature=youtu.be
 Week 3 video - https://www.youtube.com/watch?v=OZo0IFr9BdU&feature=youtu.be
 Week 4 video - https://www.youtube.com/watch?v=dmULvDgf-5w
